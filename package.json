@@ -1,0 +1,23 @@
+{
+  "name": "note-tracker",
+  "version": "1.0.0",
+  "description": "An application that allows you to create and delete notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliytrach/note-tracker.git"
+  },
+  "author": "Vitaliy Trach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitaliytrach/note-tracker/issues"
+  },
+  "homepage": "https://github.com/vitaliytrach/note-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uniqid": "^5.4.0"
+  }
+}
